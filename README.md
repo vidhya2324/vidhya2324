@@ -15,18 +15,13 @@ Membership Coordinator of Programmers Club SVCT
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/><img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>
-
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/><img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/48/external-github-with-cat-logo-an-online-community-for-software-development-logo-fresh-tal-revivo.png" alt="external-github-with-cat-logo-an-online-community-for-software-development-logo-fresh-tal-revivo"/>
 
 
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vidhya2324?theme=dark&font=Marcellus&ext=contest)
+[![Vidhya github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vidhya2324&bg_color=1a191a&color=fdfcfd&line=02f758&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
