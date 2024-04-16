@@ -1,13 +1,18 @@
-## Hi there 👋 It's me vidhya
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, It's me Vidhya s</h1>
+<h3 align="center">A Passionate Machine Learning Enthusiast from India</h3>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">       
 
-Membership Coordinator of Programmers Club SVCT
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
+
 - 🌱 I’m currently learning AI & DS
+  
 - 👯 I’m looking to collaborate on ML/AI
+  
 - 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vidhya-s2324/)
+ 
+- 💬 Ask me about Tech  **Android , Visual studio, Python**
+
+- 📫 How to reach me : <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vidhya-s2324/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Telugu.
 ### I code in
